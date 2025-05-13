@@ -401,7 +401,7 @@ if "preferences_loaded" not in st.session_state:
 # Define UI Components
 st.markdown("""
 <div class="main-header">
-    <h1>🌠 CosmicQuery - Dark Mode</h1>
+    <h1>🌠 CosmicQuery - Asking questions to the universe</h1>
     <p>An enhanced chatbot interface powered by Groq's cutting-edge LLM technology</p>
 </div>
 """, unsafe_allow_html=True)
